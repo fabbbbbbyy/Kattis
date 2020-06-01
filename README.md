@@ -1,2 +1,2 @@
-# Kattis
-This repository contains all of the solutions to Kattis problems I've attempted.
+# Summary
+This repository contains all of the solutions to Kattis problems I've attempted from https://open.kattis.com.
