@@ -1,5 +1,6 @@
 ## Problem
 https://open.kattis.com/problems/jollyjumpers
+Category: 1D Array
 
 ## Solution 
 This problem reminded me of using simple data structures to maintain information if possible.

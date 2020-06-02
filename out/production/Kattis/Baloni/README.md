@@ -1,5 +1,6 @@
 ## Problem
 https://open.kattis.com/problems/baloni
+Category: 1D Array
 
 ## Solution 
 1. Fire out arrows as per needed.

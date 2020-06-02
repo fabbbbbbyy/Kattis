@@ -1,5 +1,6 @@
 ## Problem
 https://open.kattis.com/problems/pivot
+Category: 1D Array w Pre-computation
 
 ## Solution 
 This problem taught me the importance of pre-computation.
